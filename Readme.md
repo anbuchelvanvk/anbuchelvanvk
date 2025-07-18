@@ -2,31 +2,31 @@
 **🎓 Aspiring Full Stack Developer  Creative Technologist  Future Filmmaker**
 
 Welcome to my digital space! I'm currently pursuing my **B.E.** in **CSE**, where I blend technical precision with creative storytelling. My passion lies in building intuitive applications, solving real-world problems, and crafting experiences that resonate—whether through code or cinema.
-
+<br>
 
 # 🎯 What Drives Me
 I live where technology and storytelling meet. Whether scaling web apps or shooting short films, I want my work to be both useful and meaningful. I'm particularly interested in psychological and philosophical stories, and I'm currently working on how to bring these ideas into my technical work.
-
+<br>
 
 ### 🚀 Featured Projects
 **🧮 BMI Calculator App**
 📱 Flutter-based health tool with dynamic UI
 🔗 GitHub Repo
 A sleek BMI calculator that adapts visuals based on health category. Built with Dart, it provides personalized feedback using age, weight, and height inputs.
-
+<br>
 
 **💬 Python Chat Application**
 🖥️ Socket-based messaging with Tkinter UI
 🔗 GitHub Repo
 A simple yet effective server-client chat system using Python sockets. Features a clean GUI and real-time messaging.
-
+<br>
 
 ### 🏆 Achievements & Certifications
 - 🥈 Shortfilm Making – 2nd Prize at college cultural event
 - 🎓 Elite Certificate in NPTEL’s “The Joy of Computing using Python”
 - 🧠 Code Debugging Coordinator – Led and organized a successful tech event
 - 📜 Certified in Python Programming & Flutter App Development
-
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/itsanbuchelvan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:achelvanvk@gmail.com) 
